@@ -1,4 +1,4 @@
-# Facial and Emotion Recognition with JavaScript
+# Facial and Emotion Recognition with JavaScript!
 
 ![Test](https://github.com/JackRossProjects/JS-Emotion-Recognition/blob/master/happy.png)
 
